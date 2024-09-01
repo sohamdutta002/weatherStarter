@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sohamdutta002.github.io/webStarter/static/css/main.453e3576.css",
-    "main.js": "/sohamdutta002.github.io/webStarter/static/js/main.507e11b1.js",
-    "static/js/453.5d925393.chunk.js": "/sohamdutta002.github.io/webStarter/static/js/453.5d925393.chunk.js",
-    "index.html": "/sohamdutta002.github.io/webStarter/index.html",
-    "main.453e3576.css.map": "/sohamdutta002.github.io/webStarter/static/css/main.453e3576.css.map",
-    "main.507e11b1.js.map": "/sohamdutta002.github.io/webStarter/static/js/main.507e11b1.js.map",
-    "453.5d925393.chunk.js.map": "/sohamdutta002.github.io/webStarter/static/js/453.5d925393.chunk.js.map"
+    "main.css": "/sohamdutta002.github.io/weatherStarter/static/css/main.453e3576.css",
+    "main.js": "/sohamdutta002.github.io/weatherStarter/static/js/main.fd69f4e9.js",
+    "static/js/453.5d925393.chunk.js": "/sohamdutta002.github.io/weatherStarter/static/js/453.5d925393.chunk.js",
+    "index.html": "/sohamdutta002.github.io/weatherStarter/index.html",
+    "main.453e3576.css.map": "/sohamdutta002.github.io/weatherStarter/static/css/main.453e3576.css.map",
+    "main.fd69f4e9.js.map": "/sohamdutta002.github.io/weatherStarter/static/js/main.fd69f4e9.js.map",
+    "453.5d925393.chunk.js.map": "/sohamdutta002.github.io/weatherStarter/static/js/453.5d925393.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.453e3576.css",
-    "static/js/main.507e11b1.js"
+    "static/js/main.fd69f4e9.js"
   ]
 }
