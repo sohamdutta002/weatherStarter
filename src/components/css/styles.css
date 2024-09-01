@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+    border: 0.2px solid black;
+    border-radius: 10px;
+    min-height: 50vh;
+    min-width: 28vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #56d8ef91;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+.inputData{
+    margin-top: 10px;
+}
+.inputField{
+    border-radius: 20px;
+    padding: 5px;
+}
+.info{
+    margin-top: 100px;
+}
+.temp_min{
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    font-weight: lighter;
+}
+.temp_max{
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+    font-weight: lighter;
+}
