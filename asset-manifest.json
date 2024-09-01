@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sohamdutta002.github.io/webStarter/static/css/main.453e3576.css",
+    "main.js": "/sohamdutta002.github.io/webStarter/static/js/main.507e11b1.js",
+    "static/js/453.5d925393.chunk.js": "/sohamdutta002.github.io/webStarter/static/js/453.5d925393.chunk.js",
+    "index.html": "/sohamdutta002.github.io/webStarter/index.html",
+    "main.453e3576.css.map": "/sohamdutta002.github.io/webStarter/static/css/main.453e3576.css.map",
+    "main.507e11b1.js.map": "/sohamdutta002.github.io/webStarter/static/js/main.507e11b1.js.map",
+    "453.5d925393.chunk.js.map": "/sohamdutta002.github.io/webStarter/static/js/453.5d925393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453e3576.css",
+    "static/js/main.507e11b1.js"
+  ]
+}
